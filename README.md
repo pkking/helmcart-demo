@@ -1,4 +1,4 @@
-# helmcart-demo
+0# helmcart-demo
 how to use helm chart and deploy our local dev
 ## prerequisite
 - install [golang](https://go.dev/doc/install)(required) from package manager or using [gvm](https://github.com/moovweb/gvm)(optional)
@@ -9,3 +9,10 @@ how to use helm chart and deploy our local dev
   curl -OL https://github.com/derailed/k9s/releases/download/v0.40.10/k9s_linux_amd64.deb
   apt install -y ./k9s_linux_amd64.deb
   ```
+
+## awesome demos
+- [static site](https://github.com/cfpb/static-site)
+- [auto github pages](https://helm.sh/docs/howto/chart_releaser_action/#helm)
+- [redhat-cop charts](https://github.com/redhat-cop/helm-charts/)
+- [prometheus community charts](https://github.com/prometheus-community/helm-charts)
+- [bitnami charts](https://github.com/bitnami/charts)
